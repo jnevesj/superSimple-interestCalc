@@ -15,6 +15,7 @@ Friendly alert for invalid input
 
 
 ---HOW TO USE---
+
 Enter the amount you'd like to invest.
 
 Choose the interest rate using the slider.
@@ -30,6 +31,7 @@ Total interest earned
 Maturity year
 
 ---TECHNOLOGIES USED---
+
 HTML – Structure and layout
 
 CSS – Basic styling
